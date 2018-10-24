@@ -10,7 +10,7 @@ namespace Git01_04
     {
         static void Main(string[] args)
         {
-            //Version 3
+            //Version 3.1
             Console.WriteLine("Hello !");
 
         }
